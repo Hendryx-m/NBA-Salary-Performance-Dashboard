@@ -17,6 +17,8 @@ Preprocessing (Python)
 
 Visualization (Tableau)
 KPI Cards: AVG Salary, AVG Efficiency, Best Value Player, Worst Value Player
+![Dashboard Screenshot](screenshots/dashboard.png)
+
 
 Scatter Plot: Salary vs Efficiency (bubble size = TS, color = Team)
 Top 10 Bar Chart: Best Value players
