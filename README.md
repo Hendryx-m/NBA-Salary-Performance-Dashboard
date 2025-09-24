@@ -19,6 +19,9 @@ Visualization (Tableau)
 KPI Cards: AVG Salary, AVG Efficiency, Best Value Player, Worst Value Player
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
+**Live Dashboard**
+[View on Tableau Public](https://public.tableau.com/views/NBA-Salary-Performance-Dashboard-2024-25/Dashboard1)
+
 
 Scatter Plot: Salary vs Efficiency (bubble size = TS, color = Team)
 Top 10 Bar Chart: Best Value players
